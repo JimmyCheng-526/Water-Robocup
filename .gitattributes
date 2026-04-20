@@ -1,0 +1,9 @@
+**/*.trt filter=lfs diff=lfs merge=lfs -text
+**/*.onnx filter=lfs diff=lfs merge=lfs -text
+**/*.engine filter=lfs diff=lfs merge=lfs -text
+**/*.pth filter=lfs diff=lfs merge=lfs -text
+half_size_model.onnx filter=lfs diff=lfs merge=lfs -text
+onnxruntime_gpu-1.17.0-cp310-cp310-linux_aarch64.whl filter=lfs diff=lfs merge=lfs -text
+*.ep filter=lfs diff=lfs merge=lfs -text
+*.engine filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text

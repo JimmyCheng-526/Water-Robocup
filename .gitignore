@@ -1,0 +1,11 @@
+.vscode
+.cmake_build
+build
+log
+install
+*.log
+*.run
+*.pyc
+config_local.yaml
+*_local.xml
+distribution/packages
